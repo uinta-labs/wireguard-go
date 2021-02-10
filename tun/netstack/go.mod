@@ -1,9 +1,9 @@
 module golang.zx2c4.com/wireguard/tun/netstack
 
-go 1.15
+go 1.16
 
 require (
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.zx2c4.com/wireguard v0.0.20201118
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+	golang.zx2c4.com/wireguard v0.0.0-20210210000137-747f5440bc18
 	gvisor.dev/gvisor v0.0.0-20210109011639-2fb7a49fea98
 )
